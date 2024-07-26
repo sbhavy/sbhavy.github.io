@@ -10,6 +10,6 @@ I am an MS CS candidate at the University of Southern California (USC), and a Gr
 
 Before that, I graduated from the [National Institute of Technology Delhi](https://nitdelhi.ac.in/) as a Bachelor of Technology in Computer Science and Engineering. For my undergraduate thesis, I worked on the detection of violent content in videos using Attention-Augmented Convolutional Networks, under the guidance of [Prof. Anurag Singh](https://nitdelhi.ac.in/profile/Dr.AnuragSingh/index.html).
 
-# Publications
+**Email:** bsajja \[at\] usc \[dot\] edu 
 
-Publication 1
+Here is my [CV](https://drive.google.com/file/d/1B-3Nmx3x9_79PcLcUOYRQ0pb_PHnj9s6/view?usp=sharing).
