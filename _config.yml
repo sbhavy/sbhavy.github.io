@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Bhavyesh Sajja's Homepage"
+title                    : "Bhavyesh Sajja"
 title_separator          : "-"
 name                     : &name "Bhavyesh Sajja"
 description              : &description "personal description"
