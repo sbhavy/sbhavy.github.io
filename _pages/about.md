@@ -11,4 +11,4 @@ I am an MS CS candidate at the University of Southern California (USC), and a Gr
 
 Prior to joining USC, I graduated from the National Institute of Technology Delhi (NIT Delhi) in 2023 as the President's Gold Medallist for obtaining the highest GPA in the outgoing batch of Bachelor's students.
 
-**email:** sbhavyesh [at] gmail [dot] com
+**email:** bsajja [at] usc [dot] edu
