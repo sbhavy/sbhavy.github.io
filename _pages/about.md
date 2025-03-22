@@ -19,18 +19,18 @@ Besides research, I enjoy strength training, listening to music, cooking, and ga
 
 Publications
 ===
-**Object Detection in Real-World Smart City Applications: A Case of Truck Detection in California Highways**
-Bhavyesh Sajja, Wenting Qiu, Jooyoung Yoo and Seon Ho Kim
+**Object Detection in Real-World Smart City Applications: A Case of Truck Detection in California Highways**  
+Bhavyesh Sajja, Wenting Qiu, Jooyoung Yoo and Seon Ho Kim  
 *Accepted to appear in DASC Workshop @ IEEE ICDE, 2025*
 
 **Detection of Violent Content in Videos Using Attention-Augmented 3D Convolutional Networks** ([Paper](https://ieeexplore.ieee.org/abstract/document/10897828))  
-Bhavyesh Sajja, Anurag Singh
+Bhavyesh Sajja, Anurag Singh  
 *IEEE MultiMedia*
 
 **Impact of Noise in Large Real-World Datasets on Semi-Supervised Object Detection: A Case Study of Homeless Encampments Detection** ([Paper](https://ieeexplore.ieee.org/abstract/document/10826076))  
-Bhavyesh Sajja, Seon Ho Kim
+Bhavyesh Sajja, Seon Ho Kim  
 *IEEE Big Data, 2024*
 
 **Detection of Violent Content in Videos Using 2D Attention-Augmented Convolutional Networks and Gated Recurrent Unit** ([Paper](https://ieeexplore.ieee.org/abstract/document/10440672))  
-Bhavyesh Sajja, Anurag Singh
+Bhavyesh Sajja, Anurag Singh  
 *IEEE INDICON, 2023*
