@@ -19,6 +19,6 @@ Besides research, I enjoy strength training, listening to music, cooking, and ga
 
 Publications
 ===
-* Detection of Violent Content in Videos Using 2D Attention-Augmented Convolutional Networks and Gated Recurrent Unit ([Paper](https://ieeexplore.ieee.org/abstract/document/10440672))  
-**Bhavyesh Sajja**, Anurag Singh  
+**Detection of Violent Content in Videos Using 2D Attention-Augmented Convolutional Networks and Gated Recurrent Unit** ([Paper](https://ieeexplore.ieee.org/abstract/document/10440672))  
+Bhavyesh Sajja, Anurag Singh
 *IEEE INDICON 2023*
