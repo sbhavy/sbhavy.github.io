@@ -16,7 +16,6 @@ Prior to joining USC, I graduated from the National Institute of Technology Delh
 As for hobbies, I enjoy strength training, listening to music, cooking, and gaming.
 
 **email:** bsajja [at] usc [dot] edu
-<br><br><br>
 
 Publications
 ===
