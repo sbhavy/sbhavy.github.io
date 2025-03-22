@@ -17,6 +17,8 @@ Besides research, I enjoy strength training, listening to music, cooking, and ga
 
 **email:** bsajja [at] usc [dot] edu
 
+
+
 Publications
 ===
 * **Object Detection in Real-World Smart City Applications: A Case of Truck Detection in California Highways**  
