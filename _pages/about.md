@@ -13,7 +13,7 @@ I am an MS CS candidate at the University of Southern California ([USC](https://
 
 Prior to joining USC, I graduated from the National Institute of Technology Delhi ([NIT Delhi](https://nitdelhi.ac.in/)) with a B. Tech. in CSE in 2023, as the President's Gold Medallist for obtaining the highest GPA in the outgoing batch of Bachelor's students. For my undergraduate thesis, I worked on developing vision systems to detect violent video content on edge devices for content moderation, advised by [Prof. Anurag Singh](https://anuragsg52.github.io/index.html).
 
-Besides research, I enjoy strength training, listening to music, cooking, and gaming.
+As for hobbies, I enjoy strength training, listening to music, cooking, and gaming.
 
 **email:** bsajja [at] usc [dot] edu
 
