@@ -19,6 +19,7 @@ As for hobbies, I enjoy strength training, listening to music, cooking, and gami
 <br/>
 <br/>
 <br/>
+
 Publications
 ===
 * **Object Detection in Real-World Smart City Applications: A Case of Truck Detection in California Highways**  
