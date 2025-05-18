@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an MS CS candidate at the University of Southern California ([USC](https://viterbischool.usc.edu/)) and a Graduate Research Assistant at USC's Integrated Media Systems Center ([IMSC](https://imsc.usc.edu/)), under the supervision of [Dr. Seon Ho Kim](https://sites.google.com/view/skim-home/home).
+I am an incoming CS PhD candidate at the National University of Singapore ([NUS](https://www.comp.nus.edu.sg/cs/)). I graduated with an MS in CS from the University of Southern California ([USC](https://viterbischool.usc.edu/)) and a Graduate Research Assistant at USC's Integrated Media Systems Center ([IMSC](https://imsc.usc.edu/)), under the supervision of [Dr. Seon Ho Kim](https://sites.google.com/view/skim-home/home).
 
 <!-- My research aims to bridge the gap between controlled-environment and real-world performance of vision models to enhance robustness and generalizability. My work touches upon aspects of Object Detection and Tracking, Multimedia, Semi-Supervised Object Detection and Spatial Intelligence. In the past, I have worked on projects focusing on Large Language Models and Privacy-Preserving Machine Learning. -->
 
