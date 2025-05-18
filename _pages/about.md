@@ -11,9 +11,9 @@ I am an incoming CS PhD candidate at the National University of Singapore ([NUS]
 
 As for hobbies, I enjoy strength training, listening to music, cooking, and gaming.
 
-**email:** bsajja [at] usc [dot] edu
+**email:** sbhavyesh [at] gmail [dot] com
 
-Publications
+Selected Publications
 ===
 * **Object Detection in Real-World Smart City Applications: A Case of Truck Detection in California Highways**  
 Bhavyesh Sajja, Wenting Qiu, Jooyoung Yoo and Seon Ho Kim  
