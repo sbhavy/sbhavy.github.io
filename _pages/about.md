@@ -9,7 +9,7 @@ redirect_from:
 
 I am an incoming CS PhD candidate at the National University of Singapore ([NUS](https://www.comp.nus.edu.sg/cs/)). Previously, I received my MS in CS from the University of Southern California ([USC](https://viterbischool.usc.edu/)), where I was advised by [Dr. Seon Ho Kim](https://sites.google.com/view/skim-home/home). Prior to that, I earned my B. Tech. in CSE from the National Institute of Technology Delhi ([NIT Delhi](https://nitdelhi.ac.in/)) as the President's Gold Medallist for achieving the highest GPA in my graduating class. At NITD, I was advised by [Dr. Anurag Singh](https://anuragsg52.github.io/index.html).
 
-As for hobbies, I enjoy strength training, listening to music, cooking, and gaming.
+In my spare time, I enjoy strength training, listening to music, cooking, and gaming.
 
 **email:** sbhavyesh [at] gmail [dot] com
 
