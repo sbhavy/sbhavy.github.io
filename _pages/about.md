@@ -11,6 +11,8 @@ I am an incoming CS PhD candidate at the National University of Singapore ([NUS]
 
 In my spare time, I enjoy strength training, listening to music, cooking, and gaming.
 
+You may find my one-page resume [here](https://drive.google.com/file/d/1aDmf4wiWWJnPWUqNF8odC71yoqlu1kyW/view?usp=sharing).
+
 **email:** sbhavyesh [at] gmail [dot] com
 
 Selected Publications
