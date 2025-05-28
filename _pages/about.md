@@ -19,7 +19,7 @@ Selected Publications
 ===
 * **Object Detection in Real-World Smart City Applications: A Case of Truck Detection in California Highways**  
 Bhavyesh Sajja, Wenting Qiu, Jooyoung Yoo and Seon Ho Kim  
-*Accepted, in press, DASC @ IEEE ICDE 2025*
+*Accepted, in press, DASC @ ICDE 2025*
 
 * **Detection of Violent Content in Videos Using Attention-Augmented 3D Convolutional Networks** ([Paper](https://ieeexplore.ieee.org/abstract/document/10897828))  
 Bhavyesh Sajja, Anurag Singh  
