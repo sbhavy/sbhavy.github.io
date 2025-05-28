@@ -27,7 +27,7 @@ Bhavyesh Sajja, Anurag Singh
 
 * **Impact of Noise in Large Real-World Datasets on Semi-Supervised Object Detection: A Case Study of Homeless Encampments Detection** ([Paper](https://ieeexplore.ieee.org/abstract/document/10826076))  
 Bhavyesh Sajja, Seon Ho Kim  
-*IEEE Big Data 2024*
+*IEEE BigData 2024*
 
 * **Detection of Violent Content in Videos Using 2D Attention-Augmented Convolutional Networks and Gated Recurrent Unit** ([Paper](https://ieeexplore.ieee.org/abstract/document/10440672))  
 Bhavyesh Sajja, Anurag Singh  
