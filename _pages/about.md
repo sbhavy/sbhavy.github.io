@@ -20,17 +20,6 @@ You may find my one-page resume [here](https://drive.google.com/file/d/1aDmf4wiW
 Selected Publications
 ===
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
-  <div style="flex: 1; padding-right: 1em;">
-    <strong>Object Detection in Real-World Smart City Applications: A Case of Truck Detection in California Highways</strong><br>
-    Bhavyesh Sajja, Wenting Qiu, Jooyoung Yoo and Seon Ho Kim<br>
-    <em>Accepted, in press, DASC @ ICDE 2025</em>
-  </div>
-  <div style="flex-shrink: 0;">
-    <img src="/images/icde2025.png" alt="truck detection" style="max-width: 120px; border-radius: 6px;">
-  </div>
-</div>
-
 * **Object Detection in Real-World Smart City Applications: A Case of Truck Detection in California Highways**  
 Bhavyesh Sajja, Wenting Qiu, Jooyoung Yoo and Seon Ho Kim  
 *Accepted, in press, DASC @ ICDE 2025*
