@@ -27,7 +27,7 @@ Selected Publications
     <em>Accepted, in press, DASC @ ICDE 2025</em>
   </div>
   <div style="flex-shrink: 0;">
-    <img src="/assets/images/truck_detection.png" alt="truck detection" style="max-width: 120px; border-radius: 6px;">
+    <img src="/images/icde2025" alt="truck detection" style="max-width: 120px; border-radius: 6px;">
   </div>
 </div>
 
