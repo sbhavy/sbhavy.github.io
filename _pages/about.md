@@ -11,7 +11,7 @@ I am a first-year CS PhD student at the National University of Singapore ([NUS](
 
 In my spare time, I enjoy strength training, listening to music, cooking, and gaming.
 
-You may find my one-page resume [here](https://drive.google.com/file/d/1aDmf4wiWWJnPWUqNF8odC71yoqlu1kyW/view?usp=sharing).
+You may find my one-page CV [here](https://drive.google.com/file/d/1aDmf4wiWWJnPWUqNF8odC71yoqlu1kyW/view?usp=sharing).
 
 **email:** bsajja [at] u [dot] nus [dot] edu
 
