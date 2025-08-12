@@ -13,7 +13,7 @@ In my spare time, I enjoy strength training, listening to music, cooking, and ga
 
 You may find my one-page resume [here](https://drive.google.com/file/d/1aDmf4wiWWJnPWUqNF8odC71yoqlu1kyW/view?usp=sharing).
 
-**email:** sbhavyesh [at] gmail [dot] com
+**email:** bsajja [at] u [dot] nus [dot] edu
 
 
 
