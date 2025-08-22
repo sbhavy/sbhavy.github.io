@@ -20,7 +20,7 @@ You may find my one-page CV [here](https://drive.google.com/file/d/1aDmf4wiWWJnP
 Selected Publications
 ===
 
-* **Object Detection in Real-World Smart City Applications: A Case of Truck Detection in California Highways** ([Paper](https://ieeexplore.ieee.org/abstract/document/11108144))
+* **Object Detection in Real-World Smart City Applications: A Case of Truck Detection in California Highways** ([Paper](https://ieeexplore.ieee.org/abstract/document/11108144))  
 Bhavyesh Sajja, Wenting Qiu, Jooyoung Yoo and Seon Ho Kim  
 *DASC @ ICDE 2025*
 
