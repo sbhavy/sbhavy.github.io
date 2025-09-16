@@ -28,6 +28,6 @@ latest_posts:
 
 I am a first-year CS PhD student at the [National University of Singapore](https://www.comp.nus.edu.sg/).
 
-Previously, I graduated from the [University of Southern California](https://viterbischool.usc.edu/) (MS CS), advised by Dr. Seon Ho Kim. Prior to that, I graduated from the [National Institute of Technology Delhi](https://nitdelhi.ac.in/) (BTech CSE), advised by Dr. Anurag Singh.
+Previously, I graduated from the [University of Southern California](https://viterbischool.usc.edu/) (MS CS), where I worked with [Dr. Seon Ho Kim](https://sites.google.com/view/skim-home/home). Prior to that, I graduated from the [National Institute of Technology Delhi](https://nitdelhi.ac.in/) (BTech CSE), advised by [Dr. Anurag Singh](https://sites.google.com/view/skim-home/home).
 
 **email:** bsajja [at] u [dot] nus [dot] edu
