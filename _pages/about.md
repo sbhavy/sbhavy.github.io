@@ -6,7 +6,7 @@ subtitle: CS PhD Student, NUS
 
 profile:
   align: right
-  image: profile.jpeg
+  image: headshot.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>13 Computing Dr</p>
