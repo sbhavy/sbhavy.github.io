@@ -39,5 +39,5 @@ I am particularly curious about understanding and developing *cooperative infras
 My research is motivated by ideas such as *Coasean bargaining*, *contractualism*, and *pluralistic AI alignment*.
 
 
-My former research was in machine vision for urban computing. Previously, I graduated from the [University of Southern California](https://viterbischool.usc.edu/) (MS CS), where I worked with [Dr. Seon Ho Kim](https://sites.google.com/view/skim-home/home) in the [Integrated Media Systems Center](https://imsc.usc.edu/) (IMSC). 
+My former research was in computer vision for urban analytics. Previously, I graduated from the [University of Southern California](https://viterbischool.usc.edu/) (MS CS), where I worked with [Dr. Seon Ho Kim](https://sites.google.com/view/skim-home/home) in the [Integrated Media Systems Center](https://imsc.usc.edu/) (IMSC). 
 Prior to that, I graduated from the [National Institute of Technology Delhi](https://nitdelhi.ac.in/) (BTech CSE), advised by [Dr. Anurag Singh](https://anuragsg52.github.io/index.html).
