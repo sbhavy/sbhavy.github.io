@@ -36,7 +36,7 @@ I am particularly curious about understanding and developing *cooperative infras
 * **Automated Negotiation**: What does a rational natural language negotiation look like? What changes when AI agents negotiate on behalf of human principals?
 * **Bayesian Norm Learning**: How do people decide what norms to follow, and to what degree? When is it "okay" to break away from a norm?
 
-My research is motivated by ideas such as *Coasean bargaining*, *contractualism*, and *pluralistic AI alignment*. My work uses concepts from *Bayesian inference*, *game theory*, and *multi-agent reinforcement learning*.
+My research is motivated by ideas such as *Coasean bargaining*, *contractualism*, and *pluralistic AI alignment*.
 
 
 My former research was in machine vision for urban computing. Previously, I graduated from the [University of Southern California](https://viterbischool.usc.edu/) (MS CS), where I worked with [Dr. Seon Ho Kim](https://sites.google.com/view/skim-home/home) in the [Integrated Media Systems Center](https://imsc.usc.edu/) (IMSC). 
