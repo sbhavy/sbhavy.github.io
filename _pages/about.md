@@ -31,14 +31,14 @@ I am a first-year CS PhD student at the [National University of Singapore](https
 
 My research interest lies in [Cooperative AI](https://forum.effectivealtruism.org/topics/cooperative-ai-1), incorporating ideas from *Bayesian inference*, *game theory*, and *multi-agent reinforcement learning*.
 
-Particularly, I am curious about understanding and developing *cooperative infrastructures* for settings that involve self-interested agents. 
+Particularly, I am curious about understanding and developing **cooperative infrastructures** for settings that involve self-interested agents. 
 
 To that end, I seek to answer the following research questions.
 
 * **Automated Negotiation**: What does a rational natural language negotiation look like? What changes when AI agents negotiate on behalf of human principals?
 * **Bayesian Norm Learning**: How do people decide what norms to follow, and to what degree? When is it "okay" to break away from a norm?
 
-My research is motivated by ideas such as *Coasean bargaining*, *contractualism*, and *pluralistic AI alignment*.
+My research is motivated by ideas such as [*Coasean bargaining*](https://blog.cosmos-institute.org/p/coasean-bargaining-at-scale), [*contractualism*](https://arxiv.org/abs/2506.17434), and *[pluralistic AI alignment](https://arxiv.org/abs/2408.16984)*.
 
 
 My former research was in computer vision for urban analytics. Previously, I graduated from the [University of Southern California](https://viterbischool.usc.edu/) (MS CS), where I worked with [Dr. Seon Ho Kim](https://sites.google.com/view/skim-home/home) in the [Integrated Media Systems Center](https://imsc.usc.edu/) (IMSC). 
