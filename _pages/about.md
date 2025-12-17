@@ -31,8 +31,7 @@ I am a first-year CS PhD student at the [National University of Singapore](https
 
 My research interest lies in [**Cooperative AI**](https://forum.effectivealtruism.org/topics/cooperative-ai-1), which uses ideas from *Bayesian inference, game theory, and multi-agent reinforcement learning*.
 
-I am particularly curious about understanding and developing *cooperative infrastructures*; enabling cooperation between self-interested AI agents.
-To this end, I seek to answer the following questions.
+I am particularly curious about understanding and developing *cooperative infrastructures* for settings that involve self-interested agents. To this end, I seek to answer the following questions.
 
 * **Automated Negotiation**: What does a rational natural language negotiation look like? What changes when AI agents negotiate on behalf of human principals?
 * **Bayesian Norm Learning**: How do people decide what norms to follow, and to what degree? When is it "okay" to break away from a norm?
