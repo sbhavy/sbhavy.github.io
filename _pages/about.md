@@ -29,8 +29,6 @@ latest_posts:
 
 I am a first-year CS PhD student at the [National University of Singapore](https://www.comp.nus.edu.sg/).
 
-[//]: # co-advised by [Dr Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) and [Dr Tan Zhi Xuan](https://ztangent.github.io/). 
-
 My research interest lies in **Cooperative AI**, using concepts from *Bayesian inference, game theory, and multi-agent reinforcement learning*.
 I am particularly curious about understanding and developing *cooperative infrastructures*; enabling cooperation between self-interested AI agents.
 To this end, I seek to answer the following questions.
