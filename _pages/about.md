@@ -29,7 +29,9 @@ latest_posts:
 
 I am a first-year CS PhD student at the [National University of Singapore](https://www.comp.nus.edu.sg/).
 
-My research interest lies in [Cooperative AI](https://forum.effectivealtruism.org/topics/cooperative-ai-1). Particularly, I am curious about understanding and developing *cooperative infrastructures* for settings that involve self-interested agents. 
+My research interest lies in [Cooperative AI](https://forum.effectivealtruism.org/topics/cooperative-ai-1), incorporating ideas from *Bayesian inference*, *game theory*, and *multi-agent reinforcement learning*.
+
+Particularly, I am curious about understanding and developing *cooperative infrastructures* for settings that involve self-interested agents. 
 
 To that end, I seek to answer the following research questions.
 
