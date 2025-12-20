@@ -36,7 +36,7 @@ Particularly, I am curious about understanding and developing **cooperative infr
 To that end, I seek to answer the following research questions.
 
 * **Automated Negotiation**: How to quantify the "goodness" of a negotiation? How well do agents adhere to the *contracts* developed so?
-* **Bayesian Norm Learning**: How do people decide what norms to follow, and to what degree? When is it "okay" to break away from a norm?
+* **Bayesian Norm Learning**: How do norms emerge? How do agents reason their compliance to a norm?
 
 My research is motivated by ideas such as *[Coasean bargaining](https://blog.cosmos-institute.org/p/coasean-bargaining-at-scale)*, *[contractualism](https://arxiv.org/abs/2506.17434)*, and *[pluralistic AI alignment](https://arxiv.org/abs/2408.16984)*.
 
