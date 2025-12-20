@@ -377,10 +377,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-started-my-phd-at-nus",
+            },},{id: "news-started-my-phd-at-nus",
           title: 'Started my PhD at NUS!',
           description: "",
           section: "News",},{id: "projects-project-1",
