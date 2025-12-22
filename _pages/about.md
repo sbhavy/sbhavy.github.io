@@ -29,9 +29,7 @@ latest_posts:
 
 I am a first-year CS PhD student at the [National University of Singapore](https://www.comp.nus.edu.sg/).
 
-My research interest lies in **Cooperative Intelligence**; it uses concepts from *Bayesian inference*, *game theory*, and *reinforcement learning*.
-
-Particularly, I am curious about understanding and developing **cooperative infrastructures** for settings that involve self-interested agents. 
+My research interest lies in **Cooperative Intelligence**. Particularly, I am curious about understanding and developing **cooperative infrastructures** for settings that involve self-interested agents. 
 
 To that end, I seek to answer the following research questions.
 
