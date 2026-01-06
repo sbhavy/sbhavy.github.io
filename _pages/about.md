@@ -33,7 +33,7 @@ My research interest lies in **Cooperative Intelligence**. Particularly, I am cu
 
 To that end, I seek to answer the following research questions.
 
-* **Automated Negotiation**: How to quantify the "goodness" of a negotiation? How well do agents adhere to the *contracts* developed so?
+* **Automated Negotiation<sup>[1](https://link.springer.com/article/10.1023/A:1008746126376)</sup>**: How to quantify the "goodness" of a negotiation? How well do agents adhere to the *contracts* developed so?
 * **Bayesian Norm Learning**: How do norms emerge? How do agents reason their compliance to a norm?
 * **Decentralized Coordination**: Even in the absence of explicit communication and centralized delegation, how do agents coordinate?
 
