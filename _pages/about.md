@@ -29,15 +29,16 @@ latest_posts:
 
 I am a first-year CS PhD student at the [National University of Singapore](https://www.comp.nus.edu.sg/), co-advised by [Dr Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) and [Dr Tan Zhi Xuan](https://ztangent.github.io/).
 
-My research interest lies in **Cooperative Intelligence**. Particularly, I am curious about understanding and developing **cooperative infrastructures** for settings that involve self-interested agents. 
+My research interest lies in **Cooperative Intelligence**. Particularly, I am curious about understanding and developing **cooperative infrastructures** that help self-interested agents achieve mutually beneficial outcomes.
 
 To that end, I seek to answer the following research questions.
 
 * **Automated Negotiation**: How to quantify the "goodness" of a negotiation? How well do agents adhere to the *contracts* developed so?
 * **Bayesian Norm Learning**: How do norms emerge? How do agents reason their compliance to a norm?
+* **Decentralized Coordination**: Even in the absence of explicit communication channels and/or centralized role assignments, how do agents demonstrate cordination?
 
-My research is motivated by ideas such as *[Coasean bargaining](https://blog.cosmos-institute.org/p/coasean-bargaining-at-scale)*, *[contractualism](https://arxiv.org/abs/2506.17434)*, and *[pluralistic AI alignment](https://arxiv.org/abs/2408.16984)*.
+The following ideas inspire my research: *[Coasean bargaining](https://blog.cosmos-institute.org/p/coasean-bargaining-at-scale)*, *[contractualism](https://arxiv.org/abs/2506.17434)*, and *[pluralistic AI alignment](https://arxiv.org/abs/2408.16984)*. My work heavily uses concepts from *Bayesian inference*, *theory of mind*, *game theory*, and *multi-agent reinforcement learning*.
 
 
-My former research was in computer vision for urban analytics. Previously, I graduated from the [University of Southern California](https://viterbischool.usc.edu/) (MS CS), where I worked with [Dr. Seon Ho Kim](https://sites.google.com/view/skim-home/home) in the [Integrated Media Systems Center](https://imsc.usc.edu/) (IMSC). 
+Before starting my PhD journey, my interest lied in computer vision for urban analytics. Previously, I graduated from the [University of Southern California](https://viterbischool.usc.edu/) (MS CS), where I worked with [Dr. Seon Ho Kim](https://sites.google.com/view/skim-home/home) in the [Integrated Media Systems Center](https://imsc.usc.edu/) (IMSC). 
 Prior to that, I graduated from the [National Institute of Technology Delhi](https://nitdelhi.ac.in/) (BTech CSE), advised by [Dr. Anurag Singh](https://anuragsg52.github.io/index.html).
