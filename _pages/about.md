@@ -35,7 +35,7 @@ To that end, I seek to answer the following research questions.
 
 * **Automated Negotiation**: How to quantify the "goodness" of a negotiation? How well do agents adhere to the *contracts* developed so?
 * **Bayesian Norm Learning**: How do norms emerge? How do agents reason their compliance to a norm?
-* **Decentralized Coordination**: Even in the absence of explicit communication and/or centralized role assignments, how do agents coordinate?
+* **Decentralized Coordination**: Even in the absence of explicit communication and centralized delegation, how do agents coordinate?
 
 The following ideas inspire my research: *[Coasean bargaining](https://blog.cosmos-institute.org/p/coasean-bargaining-at-scale)*, *[contractualism](https://arxiv.org/abs/2506.17434)*, and *[pluralistic AI alignment](https://arxiv.org/abs/2408.16984)*. My work heavily uses concepts from *Bayesian inference*, *theory of mind*, *game theory*, and *multi-agent reinforcement learning*.
 
