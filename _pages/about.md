@@ -37,7 +37,7 @@ To that end, I seek to answer the following research questions.
 * **[Bayesian Norm Learning](https://dl.acm.org/doi/10.5555/3635637.3663011)**: How do norms emerge? How do agents reason about their compliance to a norm?
 * **[Decentralized Coordination](https://onlinelibrary.wiley.com/doi/10.1111/tops.12525)**: Even in the absence of explicit communication and centralized delegation, how do agents coordinate?
 
-The following ideas inspire my research: *[Coasean bargaining](https://blog.cosmos-institute.org/p/coasean-bargaining-at-scale)*, *[contractualism](https://arxiv.org/abs/2506.17434)*, and *[pluralistic AI alignment](https://arxiv.org/abs/2408.16984)*. My work heavily uses concepts from *Bayesian inference*, *theory of mind*, *game theory*, and *multi-agent reinforcement learning*.
+The following ideas inspire my research: *[Coasean bargaining](https://blog.cosmos-institute.org/p/coasean-bargaining-at-scale)*, *[contractualism](https://arxiv.org/abs/2506.17434)*, and *[pluralistic AI alignment](https://arxiv.org/abs/2408.16984)*. My work heavily uses *Bayesian inference*, *theory of mind*, *game theory*, and *multi-agent reinforcement learning*.
 
 
 Before starting my PhD journey, my interest lay in computer vision for urban analytics. I graduated from the [University of Southern California](https://viterbischool.usc.edu/) (MS CS), where I worked with [Dr. Seon Ho Kim](https://sites.google.com/view/skim-home/home) at the [Integrated Media Systems Center](https://imsc.usc.edu/) (IMSC). 
