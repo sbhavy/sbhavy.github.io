@@ -27,18 +27,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year CS PhD student at the [National University of Singapore](https://www.comp.nus.edu.sg/), co-advised by [Dr Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) and [Dr Tan Zhi Xuan](https://ztangent.github.io/). Currently, I am a research fellow at the [Cooperative AI Research Fellowship](https://www.cai-research-fellowship.com/), primarily mentored by [Dr Max Kleiman-Weiner](http://faculty.washington.edu/maxkw/).
+I am a first-year CS PhD student at [NUS](https://www.comp.nus.edu.sg/), co-advised by [Dr Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) and [Dr Tan Zhi Xuan](https://ztangent.github.io/). Currently, I am a research fellow at the [Cooperative AI Research Fellowship](https://www.cai-research-fellowship.com/), primarily mentored by [Dr Max Kleiman-Weiner](http://faculty.washington.edu/maxkw/).
 
-My research interest lies in understanding and developing **cooperative infrastructures** that help self-interested agents achieve mutually beneficial outcomes.
+My interest lies in understanding and developing **cooperative infrastructures** that help self-interested agents achieve mutually beneficial outcomes.
 
 To that end, I seek to answer the following research questions.
 
-* **[Automated Negotiation](https://link.springer.com/article/10.1023/A:1008746126376)**: How to quantify the "goodness" of a negotiation? How well do agents adhere to the *contracts* developed thereby?
-* **[Bayesian Norm Learning](https://dl.acm.org/doi/10.5555/3635637.3663011)**: How do norms emerge? How do agents reason about their compliance to a norm?
-* **[Decentralized Coordination](https://onlinelibrary.wiley.com/doi/10.1111/tops.12525)**: Even in the absence of explicit communication and centralized delegation, how do agents coordinate?
+* **[Automated Negotiation](https://link.springer.com/article/10.1023/A:1008746126376)**: How to quantify the "goodness" of a negotiation?
+* **[Bayesian Norm Learning](https://dl.acm.org/doi/10.5555/3635637.3663011)**: What mechanism do agents use to learn and comply with norms?
+* **[Decentralized Coordination](https://onlinelibrary.wiley.com/doi/10.1111/tops.12525)**: How do agents coordinate in the absence of explicit communication?
 
 The following ideas inspire my research: *[Coasean bargaining](https://blog.cosmos-institute.org/p/coasean-bargaining-at-scale)*, *[contractualism](https://arxiv.org/abs/2506.17434)*, and *[pluralistic AI alignment](https://arxiv.org/abs/2408.16984)*. My work heavily uses *Bayesian inference*, *theory of mind*, *game theory*, and *multi-agent reinforcement learning*.
 
 
-Before starting my PhD journey, my interest lay in computer vision for urban analytics. I graduated from the [University of Southern California](https://viterbischool.usc.edu/) (MS CS), where I worked with [Dr. Seon Ho Kim](https://sites.google.com/view/skim-home/home) at the [Integrated Media Systems Center](https://imsc.usc.edu/) (IMSC). 
-Earlier, I graduated from the [National Institute of Technology Delhi](https://nitdelhi.ac.in/) (BTech CSE), advised by [Dr. Anurag Singh](https://anuragsg52.github.io/index.html).
+I earned my MSCS from [USC](https://viterbischool.usc.edu/), where I worked with [Dr. Seon Ho Kim](https://sites.google.com/view/skim-home/home), and before that I graduated from [NIT Delhi](https://nitdelhi.ac.in/) (BTech CSE) advised by [Dr. Anurag Singh](https://anuragsg52.github.io/index.html).
