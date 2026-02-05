@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year CS PhD student at the [National University of Singapore](https://www.comp.nus.edu.sg/), co-advised by [Dr Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) and [Dr Tan Zhi Xuan](https://ztangent.github.io/).
+I am a first-year CS PhD student at the [National University of Singapore](https://www.comp.nus.edu.sg/), co-advised by [Dr Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) and [Dr Tan Zhi Xuan](https://ztangent.github.io/). Currently, I am a research fellow at the [Cooperative AI Research Fellowship](https://www.cai-research-fellowship.com/), primarily mentored by [Dr Max Kleiman-Weiner](http://faculty.washington.edu/maxkw/).
 
-My research interest lies in **Cooperative Intelligence**. Particularly, I am curious about understanding and developing **cooperative infrastructures** that help self-interested agents achieve mutually beneficial outcomes.
+My research interest lies in understanding and developing **cooperative infrastructures** that help self-interested agents achieve mutually beneficial outcomes.
 
 To that end, I seek to answer the following research questions.
 
