@@ -33,11 +33,9 @@ My interest lies in understanding and developing **cooperative infrastructures**
 
 To that end, I seek to answer the following research questions.
 
-* **[Automated Negotiation](https://link.springer.com/article/10.1023/A:1008746126376)**: How to quantify the "goodness" of a negotiation?
-* **[Bayesian Norm Learning](https://dl.acm.org/doi/10.5555/3635637.3663011)**: What mechanism do agents use to learn and comply with norms?
-* **[Decentralized Coordination](https://onlinelibrary.wiley.com/doi/10.1111/tops.12525)**: How do agents coordinate in the absence of explicit communication?
+* **[Automated Negotiation](https://link.springer.com/article/10.1023/A:1008746126376)**: Negotiations happen over a variety of things, from prices to norms to institutions. How then, can one might quantify rationality ("goodness") in negotiations? The answer to this question is the first step towards building rational, natural-language negotiators.
+* **[Bayesian Norm Learning](https://dl.acm.org/doi/10.5555/3635637.3663011)**: Humans do not passively learn norms; they deliberate over them and then decide their degree of compliance. How can we build agents that replicate this capability, so as to reason about norms and institutions?
 
 The following ideas inspire my research: *[Coasean bargaining](https://blog.cosmos-institute.org/p/coasean-bargaining-at-scale)*, *[contractualism](https://arxiv.org/abs/2506.17434)*, and *[pluralistic AI alignment](https://arxiv.org/abs/2408.16984)*. My work heavily uses *Bayesian inference*, *theory of mind*, *game theory*, and *multi-agent reinforcement learning*.
-
 
 I earned my MSCS from [USC](https://viterbischool.usc.edu/), where I worked with [Dr. Seon Ho Kim](https://sites.google.com/view/skim-home/home), and before that I graduated from [NIT Delhi](https://nitdelhi.ac.in/) (BTech CSE) advised by [Dr. Anurag Singh](https://anuragsg52.github.io/index.html).
