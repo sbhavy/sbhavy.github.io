@@ -38,4 +38,4 @@ To that end, I seek to answer the following research questions.
 
 The following ideas inspire my research: *[Coasean bargaining](https://blog.cosmos-institute.org/p/coasean-bargaining-at-scale)*, *[contractualism](https://arxiv.org/abs/2506.17434)*, and *[pluralistic AI alignment](https://arxiv.org/abs/2408.16984)*. My work heavily uses *Bayesian inference*, *theory of mind*, *game theory*, and *multi-agent reinforcement learning*.
 
-I earned my MSCS from [USC](https://viterbischool.usc.edu/), where I worked with [Dr. Seon Ho Kim](https://sites.google.com/view/skim-home/home), and before that I graduated from [NIT Delhi](https://nitdelhi.ac.in/) (BTech CSE) advised by [Dr. Anurag Singh](https://anuragsg52.github.io/index.html).
+I earned my MSCS from [USC](https://viterbischool.usc.edu/), where I worked with [Dr Seon Ho Kim](https://sites.google.com/view/skim-home/home), and before that I graduated from [NIT Delhi](https://nitdelhi.ac.in/) (BTech CSE) advised by [Dr Anurag Singh](https://anuragsg52.github.io/index.html).
