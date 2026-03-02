@@ -8,10 +8,6 @@ profile:
   align: right
   image: ld.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>School of Computing</p>
-    <p>13 Computing Dr</p>
-    <p>Singapore 117417</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
