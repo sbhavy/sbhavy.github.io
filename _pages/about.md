@@ -33,6 +33,4 @@ My interest lies in the **cooperative infrastructure** of multi-agent systems. A
   
 * **Normative Reasoning<sup><a href="https://dl.acm.org/doi/10.5555/3635637.3663011">4</a>, <a href="https://arxiv.org/abs/2506.17434">5</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/38908304/">6</a></sup>**: Humans do not passively learn rules; they deliberate and then decide their degree of compliance. How can we build agents that replicate this capability -- understanding the purpose of these rules rather than passively following them, to participate in the evolution of the institutions they inhabit?
 
-My work heavily uses *Bayesian inference*, *theory of mind*, *game theory*, and *multi-agent reinforcement learning*.
-
 I earned my MSCS from [USC](https://viterbischool.usc.edu/), where I worked with [Dr Seon Ho Kim](https://sites.google.com/view/skim-home/home), and before that I graduated from [NIT Delhi](https://nitdelhi.ac.in/) (BTech CSE) advised by [Dr Anurag Singh](https://anuragsg52.github.io/index.html).
