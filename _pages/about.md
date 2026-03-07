@@ -25,8 +25,6 @@ latest_posts:
 
 I am a first-year CS PhD student at [NUS](https://www.comp.nus.edu.sg/), co-advised by [Dr Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) and [Dr Tan Zhi-Xuan](https://ztangent.github.io/). Currently, I am a research fellow at the [Cooperative AI Research Fellowship](https://www.cai-research-fellowship.com/), co-mentored by [Dr Max Kleiman-Weiner](http://faculty.washington.edu/maxkw/) and Xuan.
 
-BTW I do smile, lol.
-
 My interest lies in the **cooperative infrastructure** of multi-agent systems. As AI agents become embedded in existing institutions at an unprecedented scale, understanding how these systems function, and building agents that can meaningfully participate in them, becomes increasingly important. I approach this through two connected research questions:
 
 * **Automated Negotiation<sup><a href="https://link.springer.com/article/10.1023/A:1008746126376">1</a>, <a href="https://andonlabs.com/evals/vending-bench-2">2</a>, <a href="https://blog.cosmos-institute.org/p/coasean-bargaining-at-scale">3</a></sup>**: Negotiations happen over a variety of things, from prices to norms to institutions. How then, can one quantify rationality in natural-language negotiations, so as to develop agents that rationally pursue their human principals' preferences in interactions with other agents?
@@ -36,3 +34,5 @@ My interest lies in the **cooperative infrastructure** of multi-agent systems. A
 I earned my MSCS from [USC](https://viterbischool.usc.edu/), where I worked with [Dr Seon Ho Kim](https://sites.google.com/view/skim-home/home). Before that, I graduated from [NIT Delhi](https://nitdelhi.ac.in/) (BTech CSE), advised by [Dr Anurag Singh](https://anuragsg52.github.io/index.html).
 
 In my free time, I run, lift, study chess, or jam to 2000s rock.
+
+BTW I do smile, lol.
