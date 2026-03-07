@@ -27,7 +27,7 @@ I am a first-year CS PhD student at [NUS](https://www.comp.nus.edu.sg/), co-advi
 
 My interest lies in the **cooperative infrastructure** of multi-agent systems. As AI agents become embedded into existing institutions at an unprecedented scale, understanding how these systems function, and building agents that can meaningfully participate in them, becomes increasingly important. I approach this through two connected research questions:
 
-* **Automated Negotiation^[1](https://link.springer.com/article/10.1023/A:1008746126376), [2](https://andonlabs.com/evals/vending-bench-2)**: Negotiations happen over a variety of things, from prices to norms to institutions. How then, can one quantify rationality in natural-language negotiations -- to develop agents that better advocate for their human principals' preferences in their interactions with other agents?
+* **Automated Negotiation^[1](https://link.springer.com/article/10.1023/A:1008746126376), [2](https://andonlabs.com/evals/vending-bench-2)^**: Negotiations happen over a variety of things, from prices to norms to institutions. How then, can one quantify rationality in natural-language negotiations -- to develop agents that better advocate for their human principals' preferences in their interactions with other agents?
   
 * **[Norm Emergence, Learning, and Compliance](https://dl.acm.org/doi/10.5555/3635637.3663011)**: Humans do not passively learn rules; they deliberate over them and then decide their degree of compliance. How can we build agents that replicate this capability, so as to reason about and improve our norms and institutions?
 
