@@ -23,14 +23,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year CS PhD student at [NUS](https://www.comp.nus.edu.sg/), co-advised by [Dr Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) and [Dr Tan Zhi Xuan](https://ztangent.github.io/). Currently, I am a research fellow at the [Cooperative AI Research Fellowship](https://www.cai-research-fellowship.com/), primarily mentored by [Dr Max Kleiman-Weiner](http://faculty.washington.edu/maxkw/).
+I am a first-year CS PhD student at [NUS](https://www.comp.nus.edu.sg/), co-advised by [Dr Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) and [Dr Tan Zhi-Xuan](https://ztangent.github.io/). Currently, I am a research fellow at the [Cooperative AI Research Fellowship](https://www.cai-research-fellowship.com/), co-mentored by [Dr Max Kleiman-Weiner](http://faculty.washington.edu/maxkw/) and Xuan.
 
-My interest lies in understanding and developing **cooperative infrastructures** that help self-interested agents achieve mutually beneficial outcomes.
+My interest lies in the **cooperative infrastructure** of multi-agent systems. As AI agents become embedded into existing institutions at an unprecedented scale, understanding how these systems function, and building agents that can meaningfully participate in them, becomes increasingly important. I approach this through two connected research questions:
 
-To that end, I seek to answer the following research questions.
-
-* **[Automated Negotiation](https://link.springer.com/article/10.1023/A:1008746126376)**: Negotiations happen over a variety of things, from prices to norms to institutions. How then, can one might quantify rationality in negotiations? The answer to this question is the first step towards building rational, natural-language negotiators.
-* **[Bayesian Norm Learning](https://dl.acm.org/doi/10.5555/3635637.3663011)**: Humans do not passively learn rules; they deliberate over them and then decide their degree of compliance. How can we build agents that replicate this capability, so as to reason about and improve our norms and institutions?
+* **Automated Negotiation^[1](https://link.springer.com/article/10.1023/A:1008746126376), [2](https://andonlabs.com/evals/vending-bench-2)**: Negotiations happen over a variety of things, from prices to norms to institutions. How then, can one quantify rationality in natural-language negotiations -- to develop agents that better advocate for their human principals' preferences in their interactions with other agents?
+  
+* **[Norm Emergence, Learning, and Compliance](https://dl.acm.org/doi/10.5555/3635637.3663011)**: Humans do not passively learn rules; they deliberate over them and then decide their degree of compliance. How can we build agents that replicate this capability, so as to reason about and improve our norms and institutions?
 
 The following ideas inspire my research: *[Coasean bargaining](https://blog.cosmos-institute.org/p/coasean-bargaining-at-scale)*, *[contractualism](https://arxiv.org/abs/2506.17434)*, *[virtual bargaining](https://pubmed.ncbi.nlm.nih.gov/38908304/)*, and *[pluralistic AI alignment](https://arxiv.org/abs/2408.16984)*. My work heavily uses *Bayesian inference*, *theory of mind*, *game theory*, and *multi-agent reinforcement learning*.
 
