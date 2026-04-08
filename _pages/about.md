@@ -34,5 +34,3 @@ My interest lies in the **cooperative infrastructure** of multi-agent systems. A
 I earned my MSCS from [USC](https://viterbischool.usc.edu/), where I worked with [Dr Seon Ho Kim](https://sites.google.com/view/skim-home/home). Before that, I graduated from [NIT Delhi](https://nitdelhi.ac.in/) (BTech CSE), advised by [Dr Anurag Singh](https://anuragsg52.github.io/index.html).
 
 In my free time, I run, lift, study chess, or jam to 2000s rock.
-
-BTW I do smile, lol.
