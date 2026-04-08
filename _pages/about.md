@@ -6,7 +6,7 @@ subtitle: CS PhD Student, NUS
 
 profile:
   align: right
-  image: ld.jpeg
+  image: ld1.jpeg
   image_circular: false # crops the image to make it circular
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
