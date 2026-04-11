@@ -25,7 +25,7 @@ latest_posts:
 
 I am a first-year CS PhD student at [NUS](https://www.comp.nus.edu.sg/), co-advised by [Dr Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) and [Dr Tan Zhi-Xuan](https://ztangent.github.io/). Currently, I am a research fellow at the [Cooperative AI Research Fellowship](https://www.cai-research-fellowship.com/), co-mentored by [Dr Max Kleiman-Weiner](http://faculty.washington.edu/maxkw/) and Xuan.
 
-My interest lies in the **cooperative infrastructure** of multi-agent systems. AI agents are embedding into existing institutions at an unprecedented scale. Understanding how these systems function and building agents that can meaningfully participate in them becomes increasingly important. 
+My interest lies in the **cooperative infrastructure** of multi-agent systems. As AI agents are embedding into existing institutions at an unprecedented scale, understanding how these systems function and building agents that can meaningfully participate in them becomes increasingly important. 
 
 I approach this through two connected research questions:
 
