@@ -29,7 +29,7 @@ Currently, I am a research fellow at the [Cooperative AI Research Fellowship](ht
 
 My interest lies in the **cooperative infrastructure** of multi-agent systems. I am interested in finding answers to two connected research questions:
 
-* **Rational Contracting<sup><a href="https://link.springer.com/article/10.1023/A:1008746126376">1</a>, <a href="https://arxiv.org/html/2509.01063v1">2</a>, <a href="https://blog.cosmos-institute.org/p/coasean-bargaining-at-scale">3</a></sup>**: AI agents are rapidly proliferating existing economic markets, but their ability to negotiate and honor commmitments is under-studied. How can we quantify the current capabilities of these agents, and make them rational representatives of their human principals?
+* **Rational Contracting<sup><a href="https://link.springer.com/article/10.1023/A:1008746126376">1</a>, <a href="https://arxiv.org/html/2509.01063v1">2</a>, <a href="https://blog.cosmos-institute.org/p/coasean-bargaining-at-scale">3</a></sup>**: AI agents are proliferating existing economic markets, but their ability to negotiate and honor commmitments is under-studied. How can we quantify the current capabilities of these agents, and make them rational representatives of their human principals?
   
 * **Normative Reasoning<sup><a href="https://dl.acm.org/doi/10.5555/3635637.3663011">4</a>, <a href="https://arxiv.org/abs/2506.17434">5</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/38908304/">6</a></sup>**: Humans do not passively learn rules; they deliberate and then decide their degree of compliance. How can we build agents that replicate this capability so that they may participate in the evolution of norms and institutions?
 
