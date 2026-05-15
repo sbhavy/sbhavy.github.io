@@ -23,9 +23,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year CS PhD student at [NUS](https://www.comp.nus.edu.sg/), co-advised by [Dr Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) and [Dr Tan Zhi-Xuan](https://ztangent.github.io/). 
+I am a first-year CS PhD student at [NUS](https://www.comp.nus.edu.sg/), advised by [Dr Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) and [Dr Tan Zhi-Xuan](https://ztangent.github.io/). 
 
-Currently, I am a research fellow at the [Cooperative AI Research Fellowship](https://www.cai-research-fellowship.com/), co-mentored by [Dr Max Kleiman-Weiner](http://faculty.washington.edu/maxkw/) and Xuan.
+Recently, I was research fellow at the [Cooperative AI Research Fellowship](https://www.cai-research-fellowship.com/), co-mentored by [Dr Max Kleiman-Weiner](http://faculty.washington.edu/maxkw/) and Xuan.
 
 My interest lies in the study of agentic economies -- the development of AI agents that rationally negotiate and commit to agreements and rules, and creating institutions and incentives to sustain cooperation in multi-agent economies. Current AI agents struggle to negotiate effectively, honor commitments, and avoid exploitation. This is critical because human institutions have long relied on dialogue, trust, and commitment to sustain cooperation. As AI enters these institutions, we must ensure that these structures are not undermined.
 
