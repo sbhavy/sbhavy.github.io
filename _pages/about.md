@@ -33,7 +33,7 @@ My interest lies in the study of agentic economies — (a) the development of AI
 * **Rational Contracting<sup><a href="https://link.springer.com/article/10.1023/A:1008746126376">1</a>, <a href="https://arxiv.org/html/2509.01063v1">2</a>, <a href="https://blog.cosmos-institute.org/p/coasean-bargaining-at-scale">3</a></sup>**: Outcomes of negotiations can be conveniently represented by contracts that dictate things from economic business arrangements to social norms and laws. I seek to develop computational accounts of rationality in contract negotiation and performance, and to develop agents that reach mutually beneficial agreements.
 
 * **Normative Alignment<sup><a href="https://knightcolumbia.org/content/building-ai-for-the-democratic-matrix-a-technical-research-agenda-for-normative-competence-and-normative-institutions-1">4</a>, <a href="https://arxiv.org/pdf/2402.13399">5</a></sup>**: Agents usually interact with other agents within a system, which has its own set of possibly unspoken rules. Therefore, I plan to augment these agents with normative competence — learning and interpreting the rules, contracts, and norms in an environment — and compliance — taking actions that maximize individual utility given institutional and contractual forces; think social norms and market rules.
-  
+
 I earned my MSCS from [USC](https://viterbischool.usc.edu/), where I worked with [Dr Seon Ho Kim](https://sites.google.com/view/skim-home/home). Before that, I graduated from [NIT Delhi](https://nitdelhi.ac.in/) with a BTech in CSE, advised by [Dr Anurag Singh](https://anuragsg52.github.io/index.html).
 
 In my free time, I run, lift, study chess, or jam to Y2K rock.
