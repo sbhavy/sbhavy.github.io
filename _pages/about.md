@@ -34,8 +34,6 @@ My interest lies in the study of agentic economies — (a) the development of AI
 
 * **Normative Alignment<sup><a href="https://knightcolumbia.org/content/building-ai-for-the-democratic-matrix-a-technical-research-agenda-for-normative-competence-and-normative-institutions-1">4</a>, <a href="https://arxiv.org/pdf/2402.13399">5</a></sup>**: Agents usually interact with other agents within a system, which has its own set of possibly unspoken rules. Therefore, I plan to augment these agents with normative competence — learning and interpreting the rules, contracts, and norms in an environment — and compliance — taking actions that maximize individual utility given institutional and contractual forces; think social norms and market rules.
   
-* **Institution Design<sup><a href="https://dl.acm.org/doi/10.5555/3635637.3663011">6</a>, <a href="https://arxiv.org/abs/2506.17434">7</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/38908304/">8</a></sup>**: Developing rational contractors may not be sufficient, because the lack of a third-party enforcer can promote exploitative behavior. I endeavor to enhance current institutions and/or develop new institutions that incentivize cooperation in multi-agent economies and discourage adversarial behavior through sanctions.
-  
 I earned my MSCS from [USC](https://viterbischool.usc.edu/), where I worked with [Dr Seon Ho Kim](https://sites.google.com/view/skim-home/home). Before that, I graduated from [NIT Delhi](https://nitdelhi.ac.in/) with a BTech in CSE, advised by [Dr Anurag Singh](https://anuragsg52.github.io/index.html).
 
 In my free time, I run, lift, study chess, or jam to Y2K rock.
