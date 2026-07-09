@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year CS PhD student at [NUS](https://www.comp.nus.edu.sg/), advised by [Dr Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) and [Dr Tan Zhi-Xuan](https://ztangent.github.io/). 
+I am a second-year CS PhD student at [NUS](https://www.comp.nus.edu.sg/), advised by [Dr Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) and [Dr Tan Zhi-Xuan](https://ztangent.github.io/). 
 
 Recently, I was a research fellow at the [Cooperative AI Research Fellowship](https://www.cai-research-fellowship.com/), co-mentored by [Dr Max Kleiman-Weiner](http://faculty.washington.edu/maxkw/) and Xuan.
 
