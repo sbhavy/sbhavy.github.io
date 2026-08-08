@@ -1,0 +1,36 @@
+# Local development overrides.
+# Use with: bundle exec jekyll serve --config _config.yml,_config_local.yml
+
+url: http://127.0.0.1:4000
+baseurl:
+
+# Keep local startup self-contained and deterministic.
+external_sources: []
+
+# The production workflow can generate responsive WebP images. Locally, use
+# the source images so ImageMagick is not required just to preview the site.
+imagemagick:
+  enabled: false
+
+# The repository includes a demo notebook, but it is not needed for the site.
+exclude:
+  - bin/
+  - CONTRIBUTING.md
+  - CUSTOMIZE.md
+  - Dockerfile
+  - docker-compose.yml
+  - docker-compose-slim.yml
+  - FAQ.md
+  - Gemfile
+  - Gemfile.lock
+  - INSTALL.md
+  - LICENSE
+  - lighthouse_results/
+  - package.json
+  - package-lock.json
+  - _pages/about_einstein.md
+  - purgecss.config.js
+  - README.md
+  - readme_preview/
+  - vendor
+  - assets/jupyter/blog.ipynb

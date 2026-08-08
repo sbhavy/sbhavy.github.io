@@ -1,0 +1,97 @@
+.photo-journal {
+  margin-top: 2.5rem;
+
+  .photo-chapter {
+    margin-bottom: 5rem;
+  }
+
+  .photo-chapter-header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid var(--global-divider-color);
+
+    h2 {
+      margin: 0 0 0.55rem;
+      font-size: 1.35rem;
+      font-weight: 500;
+    }
+
+    p {
+      margin: 0 0 0.55rem;
+      color: var(--global-text-color-light);
+      font-size: 0.85rem;
+    }
+  }
+
+  .photo-grid {
+    display: grid;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .photo-grid--single {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .photo-grid--pair {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .photo-grid--portrait {
+    width: min(62%, 520px);
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .photo-frame {
+    min-width: 0;
+
+    figure {
+      margin: 0;
+    }
+  }
+
+  .photo-image {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 0.25rem;
+    cursor: zoom-in;
+  }
+
+  .photo-caption {
+    margin: 0.45rem 0 0;
+    color: var(--global-text-color-light);
+    font-size: 0.8rem;
+    text-align: right;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .photo-journal {
+    margin-top: 1.75rem;
+
+    .photo-chapter {
+      margin-bottom: 3.5rem;
+    }
+
+    .photo-chapter-header {
+      display: block;
+
+      p {
+        margin-top: -0.3rem;
+      }
+    }
+
+    .photo-grid--pair {
+      grid-template-columns: minmax(0, 1fr);
+    }
+
+    .photo-grid--portrait {
+      width: 100%;
+    }
+  }
+}

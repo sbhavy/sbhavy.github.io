@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: CS PhD Student, NUS
 
 profile:
   align: right
@@ -10,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   width: 1000px
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes papers marked with selected={true} in _bibliography/papers.bib
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -24,16 +23,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a second-year CS PhD student at [NUS](https://www.comp.nus.edu.sg/), advised by [Dr Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) and [Dr Tan Zhi-Xuan](https://ztangent.github.io/). 
+I am a second-year CS PhD student at [NUS](https://www.comp.nus.edu.sg/), jointly advised by [Dr Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) and [Dr Tan Zhi-Xuan](https://ztangent.github.io/). Recently, I was a research fellow at the [Cooperative AI Research Fellowship](https://www.cai-research-fellowship.com/), co-mentored by [Dr Max Kleiman-Weiner](http://faculty.washington.edu/maxkw/) and Xuan.
 
-Recently, I was a research fellow at the [Cooperative AI Research Fellowship](https://www.cai-research-fellowship.com/), co-mentored by [Dr Max Kleiman-Weiner](http://faculty.washington.edu/maxkw/) and Xuan.
+As agents become more autonomous and proficient, we may see the emergence of agentic economies<sup><a href="https://link.springer.com/article/10.1023/A:1008746126376">1</a>, <a href="https://arxiv.org/html/2509.01063v1">2</a>, <a href="https://blog.cosmos-institute.org/p/coasean-bargaining-at-scale">3</a></sup>, where language agents would negotiate and execute contracts (*contracting*) on our behalf. My current interests lie in:
+- creating computational accounts of rational contracting and benchmarking frontier language agents' contracting capabilities, and
+- developing better AI contractors that will cooperate with one another and work toward mutually beneficial outcomes, despite divergent beliefs and preferences.
 
-My interest lies in the study of agentic economies — (a) the development of AI agents that rationally negotiate and commit to agreements and rules, and (b) the creation of institutions and incentives to sustain cooperation among these agents.
-
-* **Rational Contracting<sup><a href="https://link.springer.com/article/10.1023/A:1008746126376">1</a>, <a href="https://arxiv.org/html/2509.01063v1">2</a>, <a href="https://blog.cosmos-institute.org/p/coasean-bargaining-at-scale">3</a></sup>**: Outcomes of negotiations can be conveniently represented by contracts that dictate things from economic business arrangements to social norms and laws. I seek to develop computational accounts of rationality in contract negotiation and performance, and to develop agents that reach mutually beneficial agreements.
-
-* **Normative Alignment<sup><a href="https://knightcolumbia.org/content/building-ai-for-the-democratic-matrix-a-technical-research-agenda-for-normative-competence-and-normative-institutions-1">4</a>, <a href="https://arxiv.org/pdf/2402.13399">5</a></sup>**: Agents usually interact with other agents within a system, which has its own set of possibly unspoken rules. Therefore, I plan to augment these agents with normative competence — learning and interpreting the rules, contracts, and norms in an environment — and compliance — taking actions that maximize individual utility given institutional and contractual forces; think social norms and market rules.
+My work seeks inspiration from planning and decision-making, economics, multi-agent systems, and reinforcement learning.
 
 I earned my MSCS from [USC](https://viterbischool.usc.edu/), where I worked with [Dr Seon Ho Kim](https://sites.google.com/view/skim-home/home). Before that, I graduated from [NIT Delhi](https://nitdelhi.ac.in/) with a BTech in CSE, advised by [Dr Anurag Singh](https://anuragsg52.github.io/index.html).
 
-In my free time, I run, lift, study chess, or jam to Y2K rock.
+In my free time, I run, lift, and [take photos]({{ '/photography/' | relative_url }}).

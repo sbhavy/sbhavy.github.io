@@ -1,0 +1,8 @@
+#!/bin/sh
+set -eu
+
+cd "$(dirname "$0")"
+exec bundle exec jekyll serve \
+  --config _config.yml,_config_local.yml \
+  --livereload \
+  --host 127.0.0.1
