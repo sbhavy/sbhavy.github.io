@@ -29,7 +29,7 @@ As agents become more autonomous and proficient, we may see the emergence of age
 - creating computational accounts of rational contracting and benchmarking frontier language agents' contracting capabilities, and
 - developing better AI contractors that will cooperate with one another and work toward mutually beneficial outcomes, despite divergent beliefs and preferences.
 
-My work seeks inspiration from planning and decision-making, economics, multi-agent systems, and reinforcement learning.
+My work seeks inspiration from multi-agent systems, sequential decision-making, and economics.
 
 I earned my MSCS from [USC](https://viterbischool.usc.edu/), where I worked with [Dr Seon Ho Kim](https://sites.google.com/view/skim-home/home). Before that, I graduated from [NIT Delhi](https://nitdelhi.ac.in/) with a BTech in CSE, advised by [Dr Anurag Singh](https://anuragsg52.github.io/index.html).
 
