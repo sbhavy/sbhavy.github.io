@@ -15,6 +15,9 @@ ninja.data = [{
           section: "News",},{id: "news-off-to-beautiful-cape-town-for-the-cooperative-ai-research-fellowship-see-you-in-three-months",
           title: 'Off to beautiful Cape Town for the Cooperative AI Research Fellowship! See you...',
           description: "",
+          section: "News",},{id: "news-happy-to-share-that-the-first-paper-out-of-my-phd-evaluating-rational-contracting-in-natural-language-is-now-on-arxiv",
+          title: 'Happy to share that the first paper out of my PhD, Evaluating Rational...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
