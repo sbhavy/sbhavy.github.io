@@ -26,10 +26,11 @@ latest_posts:
 I am a second-year CS PhD student at [NUS](https://www.comp.nus.edu.sg/), jointly advised by [Dr Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) and [Dr Tan Zhi-Xuan](https://ztangent.github.io/). Recently, I was a research fellow at the [Cooperative AI Research Fellowship](https://www.cai-research-fellowship.com/), co-mentored by [Dr Max Kleiman-Weiner](http://faculty.washington.edu/maxkw/) and Xuan.
 
 As agents become more autonomous and proficient, we may see the emergence of agentic economies<sup><a href="https://link.springer.com/article/10.1023/A:1008746126376">1</a>, <a href="https://arxiv.org/html/2509.01063v1">2</a>, <a href="https://blog.cosmos-institute.org/p/coasean-bargaining-at-scale">3</a></sup>, where language agents would negotiate and execute contracts (*contracting*) on our behalf. My current interests lie in:
-- creating computational accounts of rational contracting and benchmarking frontier language agents' contracting capabilities, and
-- developing better AI contractors that will cooperate with one another and work toward mutually beneficial outcomes, despite divergent beliefs and preferences.
+- creating computational accounts of rational contracting and benchmarking frontier language agents' contracting capabilities,
+- developing better AI contractors that will cooperate with one another and work toward mutually beneficial outcomes, despite divergent beliefs and preferences, and
+- studying multi-agent markets and creating institutions and norms to sustain cooperation.
 
-My work seeks inspiration from multi-agent systems, planning and decision-making under uncertainty, and economics.
+My work seeks inspiration from multi-agent systems, sequential decision-making, reinforcement learning, and economics.
 
 I earned my MSCS from [USC](https://viterbischool.usc.edu/), where I worked with [Dr Seon Ho Kim](https://sites.google.com/view/skim-home/home). Before that, I graduated from [NIT Delhi](https://nitdelhi.ac.in/) with a BTech in CSE, advised by [Dr Anurag Singh](https://anuragsg52.github.io/index.html).
 
