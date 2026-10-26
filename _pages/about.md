@@ -27,7 +27,7 @@ I am a second-year CS PhD student at [NUS](https://www.comp.nus.edu.sg/), jointl
 
 As agents become more autonomous and proficient, we may see the emergence of agentic economies<sup><a href="https://link.springer.com/article/10.1023/A:1008746126376">1</a>, <a href="https://arxiv.org/html/2509.01063v1">2</a>, <a href="https://blog.cosmos-institute.org/p/coasean-bargaining-at-scale">3</a></sup>, where language agents would negotiate and execute contracts (*contracting*) on our behalf. My current interests lie in:
 - creating computational accounts of rational contracting and benchmarking frontier language agents' contracting capabilities,
-- developing better AI contractors that will cooperate with one another and work toward mutually beneficial outcomes, despite divergent beliefs and preferences, and
+- developing better AI contractors that will cooperate with one another and work toward mutually beneficial outcomes, despite divergent beliefs and preferences,
 - studying multi-agent markets and creating institutions and norms to sustain cooperation.
 
 My work seeks inspiration from multi-agent systems, sequential decision-making, reinforcement learning, and economics.
